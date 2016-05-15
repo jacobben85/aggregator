@@ -1,4 +1,4 @@
-package com.jbjohn;
+package com.jbjohn.agg;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

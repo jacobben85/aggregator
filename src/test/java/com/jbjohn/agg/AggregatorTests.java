@@ -1,4 +1,4 @@
-package com.jbjohn;
+package com.jbjohn.agg;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
