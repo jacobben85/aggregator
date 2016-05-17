@@ -7,10 +7,16 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * Display controller
  */
 @Controller
+@SuppressWarnings("unused")
 public class DisplayController {
 
     @RequestMapping("/")
     String index() {
         return "index";
+    }
+
+    @RequestMapping("/ace")
+    String ace() {
+        return "ace";
     }
 }
